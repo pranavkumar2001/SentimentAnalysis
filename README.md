@@ -4,7 +4,7 @@ This is a sentiment analysis web app deployed on flask server to analyse sentime
 ## Inspiration
 The world is going through a rapid technological advancement. Many compnies are providing their services online.Sentiment analysis tools are essential to detect and understand customer feelings. It is an important factor when it comes to product and brand recognition, customer loyalty, customer satisfaction, advertising and promotion's success, and product acceptance.
 ## Diagram
-![diagram](https://user-images.githubusercontent.com/91466704/189839303-685898ac-0763-4d13-8860-581c22516b6b.png)
+![diagram](https://user-images.githubusercontent.com/91466704/189839801-dcd89f8a-1fbd-410d-a014-7cc0cdd19636.png)
 ## Technology Used
 * Python
 * Flask 
