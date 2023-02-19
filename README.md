@@ -21,12 +21,13 @@ The world is going through a rapid technological advancement. Many compnies are 
 * Install all the dependencies from requirements.txt
 * Run app.py file
 ## Sample Output
+
+https://user-images.githubusercontent.com/91466704/219956178-63910a1e-c471-47f5-a9fa-ae700b26ceff.mp4
+
 ![image](https://user-images.githubusercontent.com/91466704/171982099-f9a533aa-1e5e-49a4-8420-cef82a197a5d.png)
 ![image](https://user-images.githubusercontent.com/91466704/171982186-64f8f876-f5bf-4945-948a-c6c9ea29690b.png)
 ![image](https://user-images.githubusercontent.com/91466704/171982281-ae33e55e-f054-4979-a1eb-d020042aa7f6.png)
 ## Future Scope
-The accuracy of the model can be improved. It can also be used to analyse the sentiment of social media users.
-
-
+The accuracy of the model can be improved. It can also be used to analyse the sentiment of social media users
 
 
